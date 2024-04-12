@@ -1,5 +1,8 @@
 # HSC cis inhibition Notch1 Jag1
-This repository includes scripts required for the scRNAseq and RNAseq data analysis included in Thambyrajah et al. (2024).
+This repository includes scripts required for the scRNAseq and RNAseq data analysis included in Thambyrajah et al. 
+'Cis inhibition of NOTCH1 through JAGGED1 sustains embryonic hematopoietic stem cell fate' Nat Commun (2024)
+https://doi.org/10.1038/s41467-024-45716-y.
+
 All scripts include comments so they are self-explanatory.
 
 The repository is organized in the following subfolders:
